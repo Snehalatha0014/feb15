@@ -1,0 +1,5 @@
+If_name_=='__main__':
+a=int( input() )
+b=int( input() )
+Print (a//b)
+Print(a/b)
